@@ -1,0 +1,37 @@
+Fase 1 - Iniciante
+5
+1
+Qual eh a capital do Brasil?
+Rio de Janeiro
+Sao Paulo
+Brasilia
+Belo Horizonte
+3
+2
+Quantos lados tem um triangulo?
+2
+3
+4
+5
+2
+3
+Qual destes nao eh um planeta do sistema solar?
+Marte
+Jupiter
+Titan
+Saturno
+3
+4
+Quem pintou a Mona Lisa?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci
+Michelangelo
+3
+5
+Qual eh o maior oceano do mundo?
+Atlantico
+Indico
+Pacifico
+Artico
+3

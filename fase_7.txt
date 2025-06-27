@@ -1,0 +1,65 @@
+Fase 7 - Mestre do Quiz
+9
+1
+Qual eh a linguagem de programacao mais antiga ainda em uso?
+FORTRAN
+COBOL
+LISP
+Assembly
+1
+2
+Quantos cromossomos tem uma celula humana normal?
+23
+46
+32
+64
+2
+3
+Qual e a montanha mais alta do sistema solar?
+Monte Everest
+Monte Olimpo (Marte)
+Monte McKinley
+Pico da Neblina
+2
+4
+Qual destes nao eh um dos quatro estados fundamentais da materia?
+Solido
+Liquido
+Plasma
+Vidro
+4
+5
+Quem foi o primeiro matematico a calcular o valor de pi?
+Arquimedes
+Pitagoras
+Euclides
+Fibonacci
+1
+6
+Qual eh o pais com maior numero de vulcoes ativos?
+Indonesia
+Japao
+Estados Unidos
+Chile
+1
+7
+Qual eh a unidade basica de informacao na computacao quantica?
+Bit
+Qubit
+Byte
+Nibble
+2
+8
+Qual eh a velocidade do som no ar a 20 graus Celsius?
+343 m/s
+1235 km/h
+667 nos
+Todas as anteriores
+1
+9
+Qual eh o nome do primeiro satelite artificial lancado ao espaco?
+Explorer 1
+Sputnik 1
+Vanguard 1
+Telstar 1
+2

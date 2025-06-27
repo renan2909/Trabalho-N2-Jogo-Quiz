@@ -1,0 +1,37 @@
+Fase 3 - Intermediario
+5
+1
+Quantos elementos tem a tabela periodica atualmente?
+92
+118
+120
+108
+2
+2
+Qual destes nao eh um sistema operacional?
+Windows
+Linux
+MacOS
+Google
+4
+3
+Qual eh o maior orgao do corpo humano?
+Cerebro
+Figado
+Pele
+Intestino
+3
+4
+Em que ano foi proclamada a Republica no Brasil?
+1822
+1889
+1922
+1930
+2
+5
+Qual eh a capital do Canada?
+Toronto
+Vancouver
+Ottawa
+Montreal
+3
